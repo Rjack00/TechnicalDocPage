@@ -63,3 +63,10 @@ section {
     font-size: 20px;
     
 }
+.main-section ul {
+    margin-bottom: 40px;
+}
+code {
+    background-color: rgb(241, 237, 237);
+    padding: 10px 30px;
+}
