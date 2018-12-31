@@ -6,7 +6,16 @@
 }
 @media (max-width: 750px) {
     #nav-container {
-        background-color: yellow;
+        background-color: rgb(7, 7, 7);
+        color: white;
+    }
+    nav a {
+        color: white;
+    }
+}
+@media (max-width: 750px) {
+    a.nav-link {
+        color: white;
     }
 }
 
@@ -33,6 +42,7 @@ nav ul li {
 .nav-link {
     text-decoration: none;
     font-size: 25px;
+    color: black;
 }
 #top-link {
     border-top: 3px groove lightgray;
